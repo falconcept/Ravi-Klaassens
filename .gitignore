@@ -18,3 +18,4 @@ Thumbs.db
 
 # Font files (since they're now on CDN)
 fonts/ 
+.vercel
